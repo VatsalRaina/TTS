@@ -16,7 +16,7 @@
                     "commit": "480a6cdf7",
                     "license": "CPML",
                     "contact": "info@coqui.ai",
-                    "tos_required": true
+                    "tos_required": false
                 },
                 "xtts_v1.1": {
                     "description": "XTTS-v1.1 by Coqui with 14 languages, cross-language voice cloning and reference leak fixed.",
